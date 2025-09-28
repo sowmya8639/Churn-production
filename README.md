@@ -1,5 +1,5 @@
-
 Churn Prediction & Retention CRM
+
 A cutting-edge **Salesforce DX project** designed to proactively identify customers at risk of churn, recommend personalized retention strategies, and provide actionable insights to maximize member engagement and business retention.
 
 ---
